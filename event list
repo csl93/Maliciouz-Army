@@ -1,5 +1,7 @@
 <html>
+
 <style type="text/css">
+.toolbar{ position:fixed;bottom:0;height:720px;width:100%:}
   a {color: red; font-weight: bolder; font-size:150%;text-align: center}
   #tst2 {font-size: 200%;font-variant: small-caps;font-weight: bolder;padding-top: 20px; background-color: transparent;}
   #tst3 {font-size: 400%;font-variant: small-caps;font-weight: bolder;}
@@ -15,6 +17,11 @@ body {background-attachment: scroll;
     background-color: white
   }
 </style>
+
+<div class="toolbar">
+<a href="army.html";background-position: fixed>Go to Home Page</a>
+</div>
+
 
 
 <h2 id="tst2"> <span> 2013 Event List </span> </h2>
