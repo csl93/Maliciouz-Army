@@ -1,0 +1,50 @@
+<html>
+
+<style type="text/css">
+  a {color: red; font-weight: bolder; font-size:150%;text-align: center}
+  #tst2 {font-size: 200%;font-variant: small-caps;font-weight: bolder;padding-top: 20px; background-color: transparent;}
+  #tst3 {font-size: 400%;font-variant: small-caps;font-weight: bolder;}
+  h1 {text-align: center;color: red}
+  h2 {text-align: center;color: red;}
+  p {padding: 0.5em 400px;;text-align:center; justify;color: red;font-weight: bolder;background-color: tan}
+  div {text-align: center}
+  span {text-decoration: underline;}
+body {background-attachment: scroll;
+    background-position: center 50%;
+    background-image: url("http://img254.imageshack.us/img254/8617/universaldigitalcamoufl.jpg");
+    background-repeat: repeat-y;
+    background-color: white
+  }
+</style>
+
+
+
+
+
+<h2 id="tst2"> <span> Past Finishes </span> </h2>
+
+<p> 5/06/2012 EPL - Snoke Memorial Cup Division 4/5 RaceTo-2 (5-man): 6 of 11<br>
+9/29/2012 EPL - East Coast Cup Division 4 RaceTo-2 (5-man):  20 of 22<br>
+ 3/23/2013 EPL - Actiontown Classic 2013 Division 4 RaceTo-2 (5-man):  3 of 14</p>
+
+
+
+
+
+<h2 id="tst2"> <span> Sponsors </span> </h2>
+
+
+
+
+<a href="http://gisportz.com"><img src="http://img15.imageshack.us/img15/8859/gisportz.png" alt="Gi Sportz paintball logo"></a>
+<a href="http://kpspaintball.com"><img src="http://img836.imageshack.us/img836/8206/timthumbs.png" alt="KPS paintball logo"></a>
+<a href="https://www.facebook.com/3rdfloorinc?ref=ts&fref=ts"><img src="http://img69.imageshack.us/img69/9328/52596610150843560106631.jpg" alt="3rd Floor Apparel logo"></a>
+<a href="http://www.unitedclothingcompany.com/"><img src="http://img221.imageshack.us/img221/5640/53794539113813764033819.jpg" alt="United Apparel logo"></a>
+
+<a href="http://razalife.com"><img src="http://img89.imageshack.us/img89/8835/raza.png" alt="Raza Paintball Logo"></a>
+<a href="http://www.dxspaintball.com/VForce-Paintball-Masks.aspx"><img src="http://img853.imageshack.us/img853/7119/vforcelogo.jpg" alt="Vforce Logo"></a>
+<a href="http://virtuepaintball.com"><img src="http://img545.imageshack.us/img545/5812/virtuelogo.gif" alt="Virtue Paintball Logo"></a>
+
+
+
+</html>
