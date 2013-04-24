@@ -8,14 +8,13 @@
   #tst3 {font-size: 400%;font-variant: small-caps;font-weight: bolder;}
   h1 {text-align: center;color: red}
   h2 {text-align: center;color: red;}
+  h3 {text-align: center}
   p {padding: 0.5em 400px;;text-align:center; justify;color: red;font-weight: bolder;background-color: tan}
-  div {text-align: center}
+  img {text-align: center}
   span {text-decoration: underline;}
 body {background-attachment: scroll;
     background-position: center 50%;
-    background-image: url("http://img254.imageshack.us/img254/8617/universaldigitalcamoufl.jpg");
-    background-repeat: repeat-y;
-    background-color: white
+    background-color: tan
   }
 </style>
 
@@ -28,22 +27,112 @@ body {background-attachment: scroll;
 
 
 
-<p> Marvin "Flash" Chatman </p>
-<p> Kwame Hill </p>
-<p> Tyler Lancaster </p>
-<p> Christopher Lu </p>
-<p> Josh Darnell </p>
-<p> Xavier Mccolumshears </p>
-<p> Keys Pattie </p>
-<p> Leo Cayetano </p>
-<p> Dominique "Short Stroke" </p>
-<p> Michael Bettiga </p>
-<p> Casey Barry </p>
-<p> Sam Barry </p>
-<p> Chase Dunbar </p>
-<P> Oran Feiner </p>
-<p> Jerome Palmer </p>
+<p> Team Captain/Owner: Marvin "Flash" Chatman #27 <br>
 
+<img "border="7" src="http://img819.imageshack.us/img819/3703/flashft.jpg" alt="Marvin Chatman" width="custom" height="custom"> <br>
+Age: 27 <br>
+Position: Back/Mid <br>
+Experience: 6 years <br>
+APPA Rank: Division 4 <br>
+From: Washington DC<br>
+Current Location: Fredericksburg VA
+</p>
+
+
+<p> Kwame Hill #88 <br>
+<img "border="7" src="http://img89.imageshack.us/img89/1280/kwamezz.jpg" alt="Kwame Hill" width="custom" height="custom"> <br>
+Age: 21 <br>
+Position: Mid/Front Snake Side <br>
+Experience: 7 years <br>
+APPA Rank: Division 4 <br>
+From:Queens NY <br>
+Current Location: Stafford VA
+
+ </p>
+
+
+<p> Tyler Lancaster #24 <br>
+<img "border="7" src="http://img706.imageshack.us/img706/4519/tylerbq.jpg" alt="Tyler Lancaster" width="custom" height="custom"> <br>
+Age: 20 <br>
+Position: Any <br>
+Experience: 4 years <br>
+APPA Rank: Division 4 <br>
+From: Fairfax VA <br>
+Current Location: Stafford VA
+
+</p>
+
+
+<p> Christopher Lu #93 <br>
+<img "border="7" src="http://img163.imageshack.us/img163/3967/57716028.jpg" alt="Chris Lu, the best player ever to grace the paintball field. EVER" width="custom" height="custom"> <br>
+Age: 20 <br>
+Position: Any <br>
+Experience: 6 years <br>
+APPA Rank: Division 4 <br>
+From: Rockville MD <br>
+Current Location: Harrisonburg VA
+
+
+
+ </p>
+
+
+<p> Josh Darnell <br>
+<img "border="7" src="http://img837.imageshack.us/img837/5007/joshtj.jpg" alt="Josh Darnell" width="custom" height="custom"> <br>
+Age: 20 <br>
+Position: Front Snake Side<br>
+Experience: 6 years <br>
+APPA Rank: Division 4 <br>
+
+</p>
+
+<p> Keys Pattie #3 <br>
+<img "border="7" src="http://img705.imageshack.us/img705/2549/keysu.jpg" alt="Keys Pattie" width="custom" height="custom"> <br>
+Age: 24 <br>
+Position: Mid/Front Dorito Side<br>
+Experience: 4 years <br>
+APPA Rank: Division 4 <br>
+From: Stafford VA
+Current Location: Fredericksburg VA
+
+
+</p>
+
+<p> Casey Barry #08<br>
+<img "border="7" src="http://img707.imageshack.us/img707/5039/caseyhp.jpg" alt="Casey Barry" width="custom" height="custom"> <br>
+Age: 18 <br
+Position: Front Dorito Side<br>
+Experience: 1 year <br>
+APPA Rank: Division 4 <br>
+From: Fredericksburg VA <br>
+Current Location: Fredericksburg VA
+
+</p>
+
+<p> Sam "Pink Pants" Barry #09 <br>
+<img "border="7" src="http://img829.imageshack.us/img829/638/samiu.jpg" alt="Sam Barry" width="custom" height="custom"> <br>
+Age: 20 <br
+Position: Front Snake Side<br>
+Experience: 6 years <br>
+APPA Rank: Division 4 <br>
+From: Fredericksburg VA <br>
+Current Location: Fredericksburg VA
+
+</p>
+
+<P> Oran Feiner <br>
+<img "border="7" src="http://img542.imageshack.us/img542/3107/oranu.jpg" alt="Oran Feiner" width="custom" height="custom"> <br>
+Age: 26 <br
+Position: Mid/Front <br>
+Experience: 5 years <br>
+APPA Rank: Division 5 <br>
+From: Southern California <br>
+Current Location: Virginia Beach, VA
+
+
+</p>
+
+<P> this team roster is currently unfinished </P>
 <h2 id="tst2"> <span> Sponsors </span> </h2>
 
 
