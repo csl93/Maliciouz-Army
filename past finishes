@@ -9,7 +9,6 @@
   h1 {text-align: center;color: red}
   h2 {text-align: center;color: red;}
   p {padding: 0.5em 400px;;text-align:center; justify;color: red;font-weight: bolder;background-color: tan}
-  div {text-align: center}
   span {text-decoration: underline;}
 body {background-attachment: scroll;
     background-position: center 50%;
